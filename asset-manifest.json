@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/elizah/static/css/main.b711c8e1.chunk.css",
+    "main.js": "/elizah/static/js/main.545db8ba.chunk.js",
+    "main.js.map": "/elizah/static/js/main.545db8ba.chunk.js.map",
+    "runtime-main.js": "/elizah/static/js/runtime-main.9e545280.js",
+    "runtime-main.js.map": "/elizah/static/js/runtime-main.9e545280.js.map",
+    "static/css/2.11c54b2c.chunk.css": "/elizah/static/css/2.11c54b2c.chunk.css",
+    "static/js/2.7d3e0fed.chunk.js": "/elizah/static/js/2.7d3e0fed.chunk.js",
+    "static/js/2.7d3e0fed.chunk.js.map": "/elizah/static/js/2.7d3e0fed.chunk.js.map",
+    "static/js/3.2e9cb279.chunk.js": "/elizah/static/js/3.2e9cb279.chunk.js",
+    "static/js/3.2e9cb279.chunk.js.map": "/elizah/static/js/3.2e9cb279.chunk.js.map",
+    "index.html": "/elizah/index.html",
+    "static/css/2.11c54b2c.chunk.css.map": "/elizah/static/css/2.11c54b2c.chunk.css.map",
+    "static/css/main.b711c8e1.chunk.css.map": "/elizah/static/css/main.b711c8e1.chunk.css.map",
+    "static/js/2.7d3e0fed.chunk.js.LICENSE.txt": "/elizah/static/js/2.7d3e0fed.chunk.js.LICENSE.txt",
+    "static/media/blog_1.88edda84.jpg": "/elizah/static/media/blog_1.88edda84.jpg",
+    "static/media/blog_2.ceb1c65e.jpg": "/elizah/static/media/blog_2.ceb1c65e.jpg",
+    "static/media/blog_3.76d776da.jpg": "/elizah/static/media/blog_3.76d776da.jpg",
+    "static/media/App.css": "/elizah/static/media/why_choos.86ca4c95.b2986077.jpg",
+    "static/media/logo.6ce24c58.svg": "/elizah/static/media/logo.6ce24c58.svg",
+    "static/media/service_1.7f236ea8.jpg": "/elizah/static/media/service_1.7f236ea8.jpg",
+    "static/media/service_2.41df2cd0.jpg": "/elizah/static/media/service_2.41df2cd0.jpg",
+    "static/media/service_3.e78971aa.jpg": "/elizah/static/media/service_3.e78971aa.jpg",
+    "static/media/slider1.fdc37015.jpg": "/elizah/static/media/slider1.fdc37015.jpg",
+    "static/media/slider2.f205e5e9.jpg": "/elizah/static/media/slider2.f205e5e9.jpg",
+    "static/media/team-1.b45131b5.jpg": "/elizah/static/media/team-1.b45131b5.jpg",
+    "static/media/team-2.38f873ad.jpg": "/elizah/static/media/team-2.38f873ad.jpg",
+    "static/media/team-3.c334435a.jpg": "/elizah/static/media/team-3.c334435a.jpg",
+    "static/media/team-4.57058d5c.jpg": "/elizah/static/media/team-4.57058d5c.jpg",
+    "static/media/welcome.301bfc5d.png": "/elizah/static/media/welcome.301bfc5d.png",
+    "static/media/work_1.86732381.jpg": "/elizah/static/media/work_1.86732381.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e545280.js",
+    "static/css/2.11c54b2c.chunk.css",
+    "static/js/2.7d3e0fed.chunk.js",
+    "static/css/main.b711c8e1.chunk.css",
+    "static/js/main.545db8ba.chunk.js"
+  ]
+}
